@@ -9,7 +9,7 @@
     "enable": true,
     "ver_code": ".*",
     "ver_name": ".*",
-    "user_id": "^2",
+    "user_id": "^2.*",
     "stb_id": ".*",
     "ip": ".*",
     "ext1": ".*",
