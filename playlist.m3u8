@@ -255,3 +255,368 @@ http://192.168.88.1:8888/udp/239.93.1.189:5140
 #EXTINF:-1 tvg-name="熊猫影院" tvg-id="熊猫影院" tvg-logo="" group-title="影视娱乐", 熊猫影院专区
 http://192.168.88.1:8888/udp/239.93.0.214:5140
 
+#EXTINF:-1 tvg-name="云看熊猫" tvg-id="云看熊猫" tvg-logo="" group-title="地方频道", 云看熊猫专区
+http://192.168.88.1:8888/udp/239.93.0.211:9148
+
+#EXTINF:-1 tvg-name="金熊猫卡通" tvg-id="金熊猫卡通" tvg-logo="" group-title="少儿频道", 金熊猫卡通高清专区
+http://192.168.88.1:8888/udp/239.93.1.172:5140
+
+#EXTINF:-1 tvg-name="炫动卡通" tvg-id="炫动卡通" tvg-logo="" group-title="少儿频道", 炫动卡通
+http://192.168.88.1:8888/udp/239.93.0.173:5140
+
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="" group-title="少儿频道", 嘉佳卡通
+http://192.168.88.1:8888/udp/239.93.0.246:5140
+
+#EXTINF:-1 tvg-name="熊猫爱生活" tvg-id="熊猫爱生活" tvg-logo="" group-title="地方频道", 熊猫爱生活高清专区
+http://192.168.88.1:8888/udp/239.93.1.190:5140
+
+#EXTINF:-1 tvg-name="大爱四川" tvg-id="大爱四川" tvg-logo="" group-title="地方频道", 大爱四川高清专区
+http://192.168.88.1:8888/udp/239.93.1.110:5140
+
+#EXTINF:-1 tvg-name="大爱旅游" tvg-id="大爱旅游" tvg-logo="" group-title="其他频道", 大爱旅游高清专区
+http://192.168.88.1:8888/udp/239.93.42.70:5140
+
+#EXTINF:-1 tvg-name="大爱生活" tvg-id="大爱生活" tvg-logo="" group-title="其他频道", 大爱生活高清专区
+http://192.168.88.1:8888/udp/239.93.42.71:5140
+
+#EXTINF:-1 tvg-name="大爱时尚" tvg-id="大爱时尚" tvg-logo="" group-title="其他频道", 大爱时尚高清专区
+http://192.168.88.1:8888/udp/239.93.42.72:5140
+
+#EXTINF:-1 tvg-name="梨园" tvg-id="梨园" tvg-logo="" group-title="戏曲频道", 梨园
+http://192.168.88.1:8888/udp/239.93.1.195:5140
+
+#EXTINF:-1 tvg-name="家政频道" tvg-id="家政频道" tvg-logo="" group-title="其他频道", 家政频道高清
+http://192.168.88.1:8888/udp/239.93.42.48:5140
+
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="" group-title="教育频道", CETV-2
+http://192.168.88.1:8888/udp/239.93.0.113:5140
+
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="" group-title="教育频道", CETV-4高清
+http://192.168.88.1:8888/udp/239.93.1.93:5140
+
+#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="" group-title="影视娱乐", 经典电影专区
+http://192.168.88.1:8888/udp/239.93.0.57:9024
+
+#EXTINF:-1 tvg-name="华语影院" tvg-id="华语影院" tvg-logo="" group-title="影视娱乐", 华语影院专区
+239.94.1.22:5140
+
+#EXTINF:-1 tvg-name="星光院线" tvg-id="星光院线" tvg-logo="" group-title="影视娱乐", 星光院线专区
+http://192.168.88.1:8888/udp/239.93.42.87:5140
+
+#EXTINF:-1 tvg-name="全球大片" tvg-id="全球大片" tvg-logo="" group-title="影视娱乐", 全球大片专区
+http://192.168.88.1:8888/udp/239.93.42.90:5140
+
+#EXTINF:-1 tvg-name="热播剧场" tvg-id="热播剧场" tvg-logo="" group-title="影视娱乐", 热播剧场专区
+http://192.168.88.1:8888/udp/239.93.0.56:9020
+
+#EXTINF:-1 tvg-name="热门剧场" tvg-id="热门剧场" tvg-logo="" group-title="影视娱乐", 热门剧场专区
+http://192.168.88.1:8888/udp/239.93.42.88:5140
+
+#EXTINF:-1 tvg-name="健康养生" tvg-id="健康养生" tvg-logo="" group-title="生活频道", 健康养生专区
+http://192.168.88.1:8888/udp/239.93.42.84:5140
+
+#EXTINF:-1 tvg-name="谍战剧场" tvg-id="谍战剧场" tvg-logo="" group-title="影视娱乐", 谍战剧场专区
+http://192.168.88.1:8888/udp/239.93.42.91:5140
+
+#EXTINF:-1 tvg-name="卡酷动画" tvg-id="卡酷动画" tvg-logo="" group-title="少儿频道", 卡酷动画
+http://192.168.88.1:8888/udp/239.93.42.1:5140
+
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="" group-title="少儿频道", 金鹰卡通
+http://192.168.88.1:8888/udp/239.93.0.5:5140
+
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="" group-title="少儿频道", 优漫卡通
+http://192.168.88.1:8888/udp/239.93.0.251:5140
+
+#EXTINF:-1 tvg-name="宝宝动画" tvg-id="宝宝动画" tvg-logo="" group-title="少儿频道", 宝宝动画专区
+http://192.168.88.1:8888/udp/239.93.42.89:5140
+
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="少儿动画" tvg-logo="" group-title="少儿频道", 少儿动画高清专区
+http://192.168.88.1:8888/udp/239.93.0.193:9000
+
+#EXTINF:-1 tvg-name="青春动漫" tvg-id="青春动漫" tvg-logo="" group-title="少儿频道", 青春动漫专区
+http://192.168.88.1:8888/udp/239.93.0.146:5140
+
+#EXTINF:-1 tvg-name="热门综艺" tvg-id="热门综艺" tvg-logo="" group-title="娱乐频道", 热门综艺高清专区
+http://192.168.88.1:8888/udp/239.93.0.151:5140
+
+#EXTINF:-1 tvg-name="音乐现场" tvg-id="音乐现场" tvg-logo="" group-title="娱乐频道", 音乐现场高清专区
+http://192.168.88.1:8888/udp/239.93.0.198:9044
+
+#EXTINF:-1 tvg-name="戏曲精选" tvg-id="戏曲精选" tvg-logo="" group-title="戏曲频道", 戏曲精选专区
+http://192.168.88.1:8888/udp/239.93.0.144:5140
+
+#EXTINF:-1 tvg-name="戏曲" tvg-id="戏曲" tvg-logo="" group-title="戏曲频道", 戏曲专区
+http://192.168.88.1:8888/udp/239.93.0.217:9208
+
+#EXTINF:-1 tvg-name="魅力时尚" tvg-id="魅力时尚" tvg-logo="" group-title="生活频道", 魅力时尚高清专区
+http://192.168.88.1:8888/udp/239.93.0.190:9012
+
+#EXTINF:-1 tvg-name="生活时尚" tvg-id="生活时尚" tvg-logo="" group-title="生活频道", 生活时尚
+http://192.168.88.1:8888/udp/239.93.0.106:5140
+
+#EXTINF:-1 tvg-name="爱生活" tvg-id="爱生活" tvg-logo="" group-title="生活频道", 爱生活高清专区
+http://192.168.88.1:8888/udp/239.93.0.206:8028
+
+#EXTINF:-1 tvg-name="财富天下" tvg-id="财富天下" tvg-logo="" group-title="财经频道", 财富天下
+http://192.168.88.1:8888/udp/239.93.42.111:5140
+
+#EXTINF:-1 tvg-name="百变课堂" tvg-id="百变课堂" tvg-logo="" group-title="教育频道", 百变课堂专区
+http://192.168.88.1:8888/udp/239.93.42.85:5140
+
+#EXTINF:-1 tvg-name="爱体育" tvg-id="爱体育" tvg-logo="" group-title="体育频道", 爱体育专区
+http://192.168.88.1:8888/udp/239.93.0.135:9008
+
+#EXTINF:-1 tvg-name="电竞天堂" tvg-id="电竞天堂" tvg-logo="" group-title="体育频道", 电竞天堂高清专区
+http://192.168.88.1:8888/udp/239.93.1.135:5140
+
+#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="" group-title="体育频道", 游戏风云
+http://192.168.88.1:8888/udp/239.93.0.136:5140
+
+#EXTINF:-1 tvg-name="足球" tvg-id="足球" tvg-logo="" group-title="体育频道", 足球高清专区
+http://192.168.88.1:8888/udp/239.93.0.197:9040
+
+#EXTINF:-1 tvg-name="红色影院" tvg-id="红色影院" tvg-logo="" group-title="影视娱乐", 红色影院专区
+http://192.168.88.1:8888/udp/239.93.0.202:9068
+
+#EXTINF:-1 tvg-name="经典剧场" tvg-id="经典剧场" tvg-logo="" group-title="影视娱乐", 经典剧场专区
+http://192.168.88.1:8888/udp/239.93.0.203:9072
+
+#EXTINF:-1 tvg-name="家庭理财" tvg-id="家庭理财" tvg-logo="" group-title="财经频道", 家庭理财
+http://192.168.88.1:8888/udp/239.93.0.111:5140
+
+#EXTINF:-1 tvg-name="墨宝" tvg-id="墨宝" tvg-logo="" group-title="其他频道", 墨宝高清专区
+http://192.168.88.1:8888/udp/239.93.0.215:9132
+
+#EXTINF:-1 tvg-name="军事" tvg-id="军事" tvg-logo="" group-title="其他频道", 军事高清专区
+http://192.168.88.1:8888/udp/239.93.0.204:9076
+
+#EXTINF:-1 tvg-name="解密" tvg-id="解密" tvg-logo="" group-title="其他频道", 解密高清专区
+http://192.168.88.1:8888/udp/239.93.0.199:9048
+
+#EXTINF:-1 tvg-name="地理" tvg-id="地理" tvg-logo="" group-title="其他频道", 地理高清专区
+http://192.168.88.1:8888/udp/239.93.0.200:9052
+
+#EXTINF:-1 tvg-name="导视" tvg-id="导视" tvg-logo="" group-title="其他频道", 导视专区
+http://192.168.88.1:8888/udp/239.93.0.129:5140
+
+#EXTINF:-1 tvg-name="收视指南" tvg-id="收视指南" tvg-logo="" group-title="其他频道", 收视指南专区
+http://192.168.88.1:8888/udp/239.93.0.195:8012
+
+#EXTINF:-1 tvg-name="蓉城先锋" tvg-id="蓉城先锋" tvg-logo="" group-title="地方频道", 蓉城先锋专区
+http://192.168.88.1:8888/udp/239.93.0.91:2101
+
+#EXTINF:-1 tvg-name="星空精选" tvg-id="星空精选" tvg-logo="" group-title="影视娱乐", 星空精选高清专区
+http://192.168.88.1:8888/udp/239.93.1.171:5140
+
+#EXTINF:-1 tvg-name="东方财经" tvg-id="东方财经" tvg-logo="" group-title="财经频道", 东方财经高清
+http://192.168.88.1:8888/udp/239.93.1.165:5140
+
+#EXTINF:-1 tvg-name="4K视界" tvg-id="4K视界" tvg-logo="" group-title="其他频道", 4K视界专区
+http://192.168.88.1:8888/udp/239.93.0.14:5140
+
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-id="CGTN西班牙语" tvg-logo="" group-title="国际频道", CGTN西班牙语
+http://192.168.88.1:8888/udp/239.93.42.109:5140
+
+#EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="" group-title="国际频道", CGTN法语
+http://192.168.88.1:8888/udp/239.93.42.110:5140
+
+#EXTINF:-1 tvg-name="爱浪漫" tvg-id="爱浪漫" tvg-logo="" group-title="影视娱乐", 爱浪漫专区
+http://192.168.88.1:8888/udp/239.93.42.21:5140
+
+#EXTINF:-1 tvg-name="爱喜剧" tvg-id="爱喜剧" tvg-logo="" group-title="影视娱乐", 爱喜剧专区
+http://192.168.88.1:8888/udp/239.93.42.9:5140
+
+#EXTINF:-1 tvg-name="爱奇谈" tvg-id="爱奇谈" tvg-logo="" group-title="影视娱乐", 爱奇谈专区
+http://192.168.88.1:8888/udp/239.93.42.22:5140
+
+#EXTINF:-1 tvg-name="爱科幻" tvg-id="爱科幻" tvg-logo="" group-title="影视娱乐", 爱科幻专区
+http://192.168.88.1:8888/udp/239.93.42.10:5140
+
+#EXTINF:-1 tvg-name="爱院线" tvg-id="爱院线" tvg-logo="" group-title="影视娱乐", 爱院线专区
+http://192.168.88.1:8888/udp/239.93.42.11:5140
+
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="" group-title="影视娱乐", 都市剧场
+http://192.168.88.1:8888/udp/239.93.42.30:5140
+
+#EXTINF:-1 tvg-name="爱谍战" tvg-id="爱谍战" tvg-logo="" group-title="影视娱乐", 爱谍战专区
+http://192.168.88.1:8888/udp/239.93.42.14:5140
+
+#EXTINF:-1 tvg-name="爱历史" tvg-id="爱历史" tvg-logo="" group-title="影视娱乐", 爱历史专区
+http://192.168.88.1:8888/udp/239.93.42.13:5140
+
+#EXTINF:-1 tvg-name="爱悬疑" tvg-id="爱悬疑" tvg-logo="" group-title="影视娱乐", 爱悬疑专区
+http://192.168.88.1:8888/udp/239.93.42.12:5140
+
+#EXTINF:-1 tvg-name="爱旅行" tvg-id="爱旅行" tvg-logo="" group-title="生活频道", 爱旅行专区
+http://192.168.88.1:8888/udp/239.93.42.16:5140
+
+#EXTINF:-1 tvg-name="少儿天地" tvg-id="少儿天地" tvg-logo="" group-title="少儿频道", 少儿天地专区
+http://192.168.88.1:8888/udp/239.93.42.34:5140
+
+#EXTINF:-1 tvg-name="爱幼教" tvg-id="爱幼教" tvg-logo="" group-title="少儿频道", 爱幼教专区
+http://192.168.88.1:8888/udp/239.93.42.17:5140
+
+#EXTINF:-1 tvg-name="爱玩具" tvg-id="爱玩具" tvg-logo="" group-title="少儿频道", 爱玩具专区
+http://192.168.88.1:8888/udp/239.93.42.18:5140
+
+#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="" group-title="少儿频道", 爱动漫专区
+http://192.168.88.1:8888/udp/239.93.42.23:5140
+
+#EXTINF:-1 tvg-name="求索" tvg-id="求索" tvg-logo="" group-title="教育频道", 求索频道高清
+http://192.168.88.1:8888/udp/239.93.42.24:5140
+
+#EXTINF:-1 tvg-name="爱体育" tvg-id="爱体育" tvg-logo="" group-title="体育频道", 爱体育专区
+http://192.168.88.1:8888/udp/239.93.42.19:5140
+
+#EXTINF:-1 tvg-name="爱赛车" tvg-id="爱赛车" tvg-logo="" group-title="体育频道", 爱赛车专区
+http://192.168.88.1:8888/udp/239.93.42.20:5140
+
+#EXTINF:-1 tvg-name="爱宠" tvg-id="爱宠" tvg-logo="" group-title="生活频道", 爱宠宠物专区
+http://192.168.88.1:8888/udp/239.93.42.32:5140
+
+#EXTINF:-1 tvg-name="生活时尚" tvg-id="生活时尚" tvg-logo="" group-title="生活频道", 生活时尚
+http://192.168.88.1:8888/udp/239.93.42.29:5140
+
+#EXTINF:-1 tvg-name="环球旅游" tvg-id="环球旅游" tvg-logo="" group-title="生活频道", 环球旅游
+http://192.168.88.1:8888/udp/239.93.42.31:5140
+
+#EXTINF:-1 tvg-name="来钓鱼" tvg-id="来钓鱼" tvg-logo="" group-title="体育频道", 来钓鱼吧专区
+http://192.168.88.1:8888/udp/239.93.42.8:5140
+
+#EXTINF:-1 tvg-name="麻辣体育" tvg-id="麻辣体育" tvg-logo="" group-title="体育频道", 麻辣体育专区
+http://192.168.88.1:8888/udp/239.93.42.2:5140
+
+#EXTINF:-1 tvg-name="绚影4K" tvg-id="绚影4K" tvg-logo="" group-title="其他频道", 绚影4K专区
+http://192.168.88.1:8888/udp/239.93.42.33:5140
+
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-id="先锋乒羽" tvg-logo="" group-title="体育频道", 先锋乒羽
+http://192.168.88.1:8888/udp/239.93.42.56:5140
+
+#EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" tvg-logo="" group-title="体育频道", 天元围棋
+http://192.168.88.1:8888/udp/239.93.42.55:5140
+
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="" group-title="体育频道", 快乐垂钓
+http://192.168.88.1:8888/udp/239.93.1.151:5140
+
+#EXTINF:-1 tvg-name="茶频道" tvg-id="茶频道" tvg-logo="" group-title="生活频道", 茶频道
+http://192.168.88.1:8888/udp/239.93.0.114:5140
+
+#EXTINF:-1 tvg-name="乐龄学堂" tvg-id="乐龄学堂" tvg-logo="" group-title="教育频道", 乐龄学堂专区
+http://192.168.88.1:8888/udp/239.93.1.179:5140
+
+#EXTINF:-1 tvg-name="亲子趣学" tvg-id="亲子趣学" tvg-logo="" group-title="教育频道", 亲子趣学4k专区
+http://192.168.88.1:8888/udp/239.93.1.191:5140
+
+#EXTINF:-1 tvg-name="中录动漫" tvg-id="中录动漫" tvg-logo="" group-title="少儿频道", 中录动漫4K专区
+http://192.168.88.1:8888/udp/239.93.1.188:5140
+
+#EXTINF:-1 tvg-name="熊猫24小时" tvg-id="熊猫24小时" tvg-logo="" group-title="地方频道", 熊猫24小时专区
+http://192.168.88.1:8888/udp/239.93.1.178:5140
+
+#EXTINF:-1 tvg-name="4K乐享" tvg-id="4K乐享" tvg-logo="" group-title="其他频道", 4K乐享超清专区
+http://192.168.88.1:8888/udp/239.93.0.43:5140
+
+#EXTINF:-1 tvg-name="书画" tvg-id="书画" tvg-logo="" group-title="其他频道", 书画频道
+http://192.168.88.1:8888/udp/239.93.42.67:5140
+
+#EXTINF:-1 tvg-name="乐游" tvg-id="乐游" tvg-logo="" group-title="生活频道", 乐游
+http://192.168.88.1:8888/udp/239.93.42.94:5140
+
+#EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="" group-title="教育频道", 金色学堂
+http://192.168.88.1:8888/udp/239.93.42.95:5140
+
+#EXTINF:-1 tvg-name="法治天地" tvg-id="法治天地" tvg-logo="" group-title="其他频道", 法治天地
+http://192.168.88.1:8888/udp/239.93.42.96:5140
+
+#EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="" group-title="其他频道", 中国天气
+http://192.168.88.1:8888/udp/239.93.42.66:5140
+
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-id="四海钓鱼" tvg-logo="" group-title="体育频道", 四海钓鱼
+http://192.168.88.1:8888/udp/239.93.0.55:5140
+
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="" group-title="体育频道", 魅力足球
+http://192.168.88.1:8888/udp/239.93.42.97:5140
+
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="" group-title="少儿频道", 动漫秀场
+http://192.168.88.1:8888/udp/239.93.42.93:5140
+
+#EXTINF:-1 tvg-name="精彩影视" tvg-id="精彩影视" tvg-logo="" group-title="影视娱乐", 精彩影视
+http://192.168.88.1:8888/udp/239.93.42.92:5140
+
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="" group-title="影视娱乐", CHC家庭影院
+http://192.168.88.1:8888/udp/239.93.42.6:5140
+
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="" group-title="影视娱乐", CHC影迷电影
+http://192.168.88.1:8888/udp/239.93.42.5:5140
+
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="" group-title="影视娱乐", CHC动作电影
+http://192.168.88.1:8888/udp/239.93.42.7:5140
+
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="" group-title="影视娱乐", 欢笑剧场4K
+http://192.168.88.1:8888/udp/239.93.0.145:5140
+
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-id="北京卫视4K" tvg-logo="" group-title="卫视频道", 北京卫视4K
+239.94.0.111:5140
+
+#EXTINF:-1 tvg-name="i成都" tvg-id="i成都" tvg-logo="" group-title="地方频道", i成都
+http://192.168.88.1:8888/udp/239.93.1.104:1234
+
+#EXTINF:-1 tvg-name="中国体育1" tvg-id="中国体育1" tvg-logo="" group-title="体育频道", 中国体育1
+http://192.168.88.1:8888/udp/239.93.42.25:5140
+
+#EXTINF:-1 tvg-name="中国体育2" tvg-id="中国体育2" tvg-logo="" group-title="体育频道", 中国体育2
+http://192.168.88.1:8888/udp/239.93.42.26:5140
+
+#EXTINF:-1 tvg-name="中国体育3" tvg-id="中国体育3" tvg-logo="" group-title="体育频道", 中国体育3
+http://192.168.88.1:8888/udp/239.93.42.27:5140
+
+#EXTINF:-1 tvg-name="精彩推荐" tvg-id="精彩推荐" tvg-logo="" group-title="其他频道", 精彩推荐专区
+http://192.168.88.1:8888/udp/239.93.1.5:5140
+
+#EXTINF:-1 tvg-name="直播室1" tvg-id="直播室1" tvg-logo="" group-title="其他频道", 直播室1
+http://192.168.88.1:8888/udp/239.93.1.180:5140
+
+#EXTINF:-1 tvg-name="直播室2" tvg-id="直播室2" tvg-logo="" group-title="其他频道", 直播室2
+http://192.168.88.1:8888/udp/239.93.1.181:5140
+
+#EXTINF:-1 tvg-name="直播室3" tvg-id="直播室3" tvg-logo="" group-title="其他频道", 直播室3
+http://192.168.88.1:8888/udp/239.93.1.182:5140
+
+#EXTINF:-1 tvg-name="直播室4" tvg-id="直播室4" tvg-logo="" group-title="其他频道", 直播室4
+http://192.168.88.1:8888/udp/239.93.1.183:5140
+
+#EXTINF:-1 tvg-name="直播室5" tvg-id="直播室5" tvg-logo="" group-title="其他频道", 直播室5
+http://192.168.88.1:8888/udp/239.93.1.184:5140
+
+#EXTINF:-1 tvg-name="直播室6" tvg-id="直播室6" tvg-logo="" group-title="其他频道", 直播室6
+http://192.168.88.1:8888/udp/239.93.1.185:5140
+
+#EXTINF:-1 tvg-name="直播室7" tvg-id="直播室7" tvg-logo="" group-title="其他频道", 直播室7
+http://192.168.88.1:8888/udp/239.93.1.186:5140
+
+#EXTINF:-1 tvg-name="直播室8" tvg-id="直播室8" tvg-logo="" group-title="其他频道", 直播室8
+http://192.168.88.1:8888/udp/239.93.1.187:5140
+
+#EXTINF:-1 tvg-name="红原日干乔" tvg-id="红原日干乔" tvg-logo="" group-title="地方频道", 红原日干乔
+http://192.168.88.1:8888/udp/239.93.0.178:5140
+
+#EXTINF:-1 tvg-name="红原月亮湾" tvg-id="红原月亮湾" tvg-logo="" group-title="地方频道", 红原月亮湾
+http://192.168.88.1:8888/udp/239.93.0.209:5140
+
+#EXTINF:-1 tvg-name="电信导视3" tvg-id="电信导视3" tvg-logo="" group-title="其他频道", 电信导视3
+http://192.168.88.1:8888/udp/239.93.0.110:5140
+
+#EXTINF:-1 tvg-name="雅克音乐节" tvg-id="雅克音乐节" tvg-logo="" group-title="娱乐频道", 雅克音乐节直播
+http://192.168.88.1:8888/udp/239.93.42.69:5140
+
+#EXTINF:-1 tvg-name="雅克音乐节宣传" tvg-id="雅克音乐节宣传" tvg-logo="" group-title="娱乐频道", 雅克音乐节宣传
+http://192.168.88.1:8888/udp/239.93.42.68:5140
+
+#EXTINF:-1 tvg-name="云演艺" tvg-id="云演艺" tvg-logo="" group-title="娱乐频道", 云演艺宣传
+http://192.168.88.1:8888/udp/239.93.42.60:5140
+
+#EXTINF:-1 tvg-name="蜀乡村歌" tvg-id="蜀乡村歌" tvg-logo="" group-title="地方频道", 四川省首届"蜀乡村歌"大赛总决赛
+http://192.168.88.1:8888/udp/239.93.42.59:5140
+
+#EXTINF:-1 tvg-name="华西证券" tvg-id="华西证券" tvg-logo="" group-title="财经频道", 华西证券
+http://192.168.88.1:8888/udp/239.93.0.69:5140
